@@ -25,4 +25,9 @@
         username: admin
         password: admin
   - when the credential is correct the data entry show now you can add,edt,delete.
+
+# List Challenges encounter
+
+  - The Challenges i encounter is to create api connection into sql.
+  - when i call another js file the login form can't hide.
     
