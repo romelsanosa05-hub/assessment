@@ -19,6 +19,7 @@
   - After extracting open vscode and openfolder llisystem.
   - click scr and click app.js
   - click new terminal and type cd lli-app after that type npm start
+  - if you encounter axios error run this in terminal npm install axios
   - open your browser then type http://localhost:3000/
   - when the login show the
         username: admin
@@ -28,6 +29,6 @@
 # List Challenges encounter
 
   - The Challenges i encounter is to create api connection into sql.
-  - when i call another js file the login form can't hide.
+  - when i call another js file the login form can't hide after an hour i can fix it.
     
     
